@@ -1,0 +1,11 @@
+export const CURRENT_PAGE_PEOPLE = "CURRENT_PAGE_PEOPLE";
+export const COUNT_PAGE_PEOPLE   = "COUNT_PAGE_PEOPLE";
+export const PEOPLES_ARRAY       = "PEOPLES_ARRAY";
+export const STARSHIPS           = "STARSHIPS";
+export const STARSHIPS_ARRAY     = "STARSHIPS_ARRAY";
+export const FILMS_ARRAY         = "FILMS_ARRAY";
+export const FILMS               = "FILMS";
+export const PEOPLE              = "PEOPLE";
+export const PEOPLES             = "PEOPLES";
+export const ACTIVE_CARD_ID      = "ACTIVE_CARD_ID";
+export const ACTIVE_CARD_DATA    = "ACTIVE_CARD_DATA";
